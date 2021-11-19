@@ -10,3 +10,5 @@ This script will tell ya the sols you shuold receive if/when STACC's PR to metap
 4. tips accepted: enter stacc.sol as recipient in your wallet :)
 
 https://i.imgur.com/3ol8JN5.png
+
+a friend made this much more easy to identify your missing sols, thanks 0xAlice https://sol-nft.tools/?mode=stuck-sol
