@@ -2,6 +2,8 @@
 
 ## Wat?
 
+This script will tell ya the sols you shuold receive if/when STACC's PR to metaplex is deployed ;)
+
 1. run sudo chmod +x script.sh. Edit script with your pubkey in the filter.
 2. run ./script.sh
 3. run python3 app.py
